@@ -1,0 +1,8 @@
+{
+  "name": "payload-zod-repro",
+  "private": true,
+  "packageManager": "pnpm@11.28.4",
+  "scripts": {
+    "build": "pnpm --filter web build"
+  }
+}
